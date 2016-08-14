@@ -96,12 +96,12 @@
 + http://bootswatch.com
 + http://demos.creative-tim.com/material-kit/index.html
 + https://html5boilerplate.com
++ https://developer.mozilla.org/en-US/docs/Web
 
 ### JavaScript
 
 + http://learn.javascript.ru
 + http://frontendbookshelf.ru
-+
 
 ### Markdown
 
